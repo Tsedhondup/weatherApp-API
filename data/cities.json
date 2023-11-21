@@ -1,18 +1,14 @@
 [
     {
-        "id": "d1bb1d81-3959-44f5-8473-1fbcfac81f52",
+        "id": "3beb9ea7-f33b-42a7-b185-1c265baecb8f",
+        "city": "vancouver"
+    },
+    {
+        "id": "e990dccd-9b7e-43b0-8430-0ca101aa14b9",
         "city": "toronto"
     },
     {
-        "id": "2f6ed756-79b7-43db-b418-732cb6803cb0",
-        "city": "Miami"
-    },
-    {
-        "id": "280585ff-d331-483f-9ad2-fcf7e06e21cd",
-        "city": "Ottawa"
-    },
-    {
-        "id": "b9194c1a-f3e5-4fb8-bb34-cec2c484f045",
+        "id": "80e9456c-c23c-46a9-bd21-c0d92d701d9f",
         "city": "New York"
     }
 ]
