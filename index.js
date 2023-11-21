@@ -15,7 +15,7 @@ app.use(express.json());
 // ROUTES
 app.get("/cities", cityRoutes);
 app.post("/cities", cityRoutes);
-// app.delete("/citiest/:id", cityRoutes); // id == id of video, commentId == id of a comment
+app.delete("/cities/:id", cityRoutes); // id == id of video, commentId == id of a comment
 
 app.listen(PORT, () => {
   console.log(`App is listening on port ${PORT}`);

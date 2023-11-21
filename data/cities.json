@@ -1,1 +1,14 @@
-[{"id":"d1bb1d81-3959-44f5-8473-1fbcfac81f52","city":"toronto"},{"id":"4ad2d4ae-8dc9-4acc-88ec-104b5ed3bac9","city":"Toronto"},{"id":"97e35441-7e3a-4197-9358-77dc91c8456d","city":"Miami"},{"id":"5ddc6f9f-149f-4e49-a136-4d5f3718a8e1","city":"Dubai"},{"id":"06e1bad0-f9d2-4c63-8fd8-09ba6c841725","city":"Miami"}]
+[
+    {
+        "id": "3beb9ea7-f33b-42a7-b185-1c265baecb8f",
+        "city": "vancouver"
+    },
+    {
+        "id": "e990dccd-9b7e-43b0-8430-0ca101aa14b9",
+        "city": "toronto"
+    },
+    {
+        "id": "80e9456c-c23c-46a9-bd21-c0d92d701d9f",
+        "city": "New York"
+    }
+]
