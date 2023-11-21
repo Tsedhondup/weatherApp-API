@@ -37,6 +37,8 @@ router.post("/cities", (req, res, next) => {
   return;
 });
 
+
+
 // // DELETE COMMENTS
 // router.delete("/cities/:id", (req, res, next) => {
 //   fs.readFile("./data/videos.json", (err, data) => {

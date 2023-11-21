@@ -1,18 +1,1 @@
-[
-    {
-        "id": "d1bb1d81-3959-44f5-8473-1fbcfac81f52",
-        "city": "toronto"
-    },
-    {
-        "id": "2f6ed756-79b7-43db-b418-732cb6803cb0",
-        "city": "Miami"
-    },
-    {
-        "id": "280585ff-d331-483f-9ad2-fcf7e06e21cd",
-        "city": "Ottawa"
-    },
-    {
-        "id": "b9194c1a-f3e5-4fb8-bb34-cec2c484f045",
-        "city": "New York"
-    }
-]
+[{"id":"d1bb1d81-3959-44f5-8473-1fbcfac81f52","city":"toronto"}]
